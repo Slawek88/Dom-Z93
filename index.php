@@ -181,7 +181,7 @@ if (filter_has_var(INPUT_POST, 'submit')) {
                     Planowane ukończenie prac i przekazanie kluczy nowemu właścicielowi
                     II kwartał 2019 roku.
                     <br />
-                    Zachęcam do kontaktu 503 526 823 .
+                    Zachęcam do kontaktu 555 555 555 .
                     <br />
                     Pozdrawiam Krzysztof.
                     </span>
